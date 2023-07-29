@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "description": "Classic Italian pizza with tomato sauce, cheese, pepperoni, and mushrooms.",
+    "price": 12.99,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Sushi",
+    "description": "Traditional Japanese sushi with raw fish, rice, seaweed, and soy sauce.",
+    "price": 18.50,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "description": "Fresh salad with lettuce, croutons, parmesan cheese, and Caesar dressing.",
+    "price": 8.75,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Hamburger",
+    "description": "Juicy beef patty on a bun with lettuce, tomato, cheese, ketchup, and mustard.",
+    "price": 10.25,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Pad Thai",
+    "description": "Thai stir-fried noodles with shrimp, tofu, bean sprouts, eggs, and peanuts.",
+    "price": 14.99,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Mushroom",
+    "description": "Creamy Italian risotto with mushrooms, onion, and parmesan cheese.",
+    "price": 11.50,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+
+  {
+    "id": 7,
+    "name": "Alfredo Pasta",
+    "description": "Creamy Alfredo pasta with tender pieces of chicken, garlic, and parmesan cheese.",
+    "price": 13.75,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Margherita",
+    "description": "Classic Italian pizza with tomato sauce, fresh mozzarella cheese, cherry tomatoes, and basil leaves.",
+    "price": 11.99,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Grilled Salmon",
+    "description": "Grilled salmon fillet served with a side of steamed vegetables and lemon wedges.",
+    "price": 16.50,
+    "image_url": "https://images.unsplash.com/photo-1470324161839-ce2bb6fa6bc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
+  }
+]
